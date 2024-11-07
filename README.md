@@ -6,7 +6,7 @@ Assignment 1 was about implementing the movement of queens on a chess board and 
 
 Assignment 2 was about Generic Binary Search Trees.
 
-Assignemnt 3 was about implementing the movement of knights on a chess board and checking to see if any of them "threaten" each other.
+Assignment 3 was about implementing the movement of knights on a chess board and checking to see if any of them "threaten" each other.
 
 Assigment 4 was about SkipLists but was incomplete so I did not include the file in here.
 
